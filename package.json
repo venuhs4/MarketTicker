@@ -1,0 +1,16 @@
+{
+  "name": "market-ticker",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "description": "MarketTicker",
+  "author": {
+    "name": "Dhruv"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "sync-request": "^6.0.0"
+  }
+}

@@ -1,0 +1,3 @@
+D:\Try Projects\MarketTicker\MarketTicker\obj\Debug\MarketTicker.njsprojAssemblyReference.cache
+D:\Try Projects\MarketTicker\MarketTicker\obj\Debug\MarketTicker.njsproj.CoreCompileInputs.cache
+D:\Try Projects\MarketTicker\MarketTicker\bin\Microsoft.NodejsTools.WebRole.dll
